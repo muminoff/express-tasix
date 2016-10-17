@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/muminoff/express-tasix/issues"
   },
-  "homepage": "https://github.com/muminoff/express-tasix#readme"
+  "homepage": "https://github.com/muminoff/express-tasix#readme",
+  "dependencies": {
+    "ipaddr.js": "^1.2.0"
+  }
 }
