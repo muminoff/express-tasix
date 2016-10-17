@@ -1,0 +1,28 @@
+{
+  "name": "express-tasix",
+  "version": "0.1.0",
+  "description": "Node.js Express middleware for Tas-IX network",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muminoff/express-tasix.git"
+  },
+  "keywords": [
+    "uzbekistan",
+    "tasix",
+    "network"
+  ],
+  "author": {
+    "name": "Sardor Muminov",
+    "email": "smuminov@gmail.com",
+    "url": "https://github.com/muminoff"
+  },
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/muminoff/express-tasix/issues"
+  },
+  "homepage": "https://github.com/muminoff/express-tasix#readme"
+}
