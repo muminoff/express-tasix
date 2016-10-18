@@ -22,6 +22,13 @@ app.use(tasix_middleware);
 ...
 ```
 
+## Contribution
+To run the tests:
+
+```
+npm test
+```
+
 ## Disclaimer
 Network range is being fetched manually from `http://tasix.sarkor.uz/full`, meaning correctness is based on 3rd party ISP provider which releases network information periodically.
 
