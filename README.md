@@ -12,6 +12,16 @@ Data exchange network in Uzbekistan, where many domestic ISP providers give acce
 $ npm install express-tasix --save
 ```
 
+# Example
+
+```
+...
+var tasix_middleware = require('express-tasix');
+...
+app.use(tasix_middleware);
+...
+```
+
 ## Disclaimer
 Network range is being fetched manually from `http://tasix.sarkor.uz/full`, meaning correctness is based on 3rd party ISP provider which releases network information periodically.
 
