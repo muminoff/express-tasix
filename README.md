@@ -1,4 +1,7 @@
 # express-tasix
+[![Build Status](https://travis-ci.org/muminoff/express-tasix.svg?branch=master)](https://travis-ci.org/muminoff/express-tasix)
+[![NPM](https://nodei.co/npm/express-tasix.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/express-tasix.png?downloads=true&downloadRank=true&stars=true)
+
 Node.js Express middleware for Tas-IX network
 
 ## What is Tas-IX?
