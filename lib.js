@@ -14,13 +14,6 @@ function is_tasix_member(addr) {
 
   return ip_is_in_range;
 
-  // for (var i = 0; i < network.length; i++) {
-  //   if (addr_belongs_to_cidr(addr, network[i])) {
-  //     ip_is_in_range = true;
-  //     break
-  //   }
-  // }
-  // return ip_is_in_range;
 }
 
 function addr_belongs_to_cidr(addr, cidr) {
